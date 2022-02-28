@@ -7,8 +7,8 @@
 
 每周一上午，总部销售管理团队会拿到本季度截至到上周末的销售数据，并对这些数据进行分析。
 
-
-![image](https://user-images.githubusercontent.com/45448260/155999896-f1438ce6-ffc5-4a4c-9097-af1bd0f67e0d.png)
+# 数据处理流程：
+![image](https://user-images.githubusercontent.com/45448260/156002440-90e04576-5ceb-467d-b7dd-b7a3fbbc39d8.png)
 
 # 仪表盘显示如下：
 
